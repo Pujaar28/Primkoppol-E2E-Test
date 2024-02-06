@@ -1,0 +1,5 @@
+{
+    "listSimpanan":["Simpanan Sukarela", "Simpanan Wajib", "Simpanan Lebaran"],
+    "listPinjaman":["Pinjaman Uang", "Pinjaman Barang"],
+    "listBulan":["1 Bulan", "3 Bulan", "6 Bulan", "9 Bulan", "12 Bulan"]
+}

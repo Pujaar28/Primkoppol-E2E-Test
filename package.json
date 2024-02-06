@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cypress": "^13.6.2"
+  },
+  "scripts": {
+    "test": "cypress open",
+    "cy:open":"cypress open"
+  },
+  "name": "Primkoppol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "pujaar",
+  "license": "MIT"
+}
